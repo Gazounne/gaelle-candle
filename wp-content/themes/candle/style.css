@@ -1,0 +1,10 @@
+/*
+ Theme Name:   Gabriel Candle
+ Theme URI:    https://monsite.com
+ Description:  Description de mon thème enfant
+ Author:       Gaelle
+ Author URI:   https://wpmarmite.com
+ Template:     storefront
+ Version:      1.0.0
+*/
+@import url("../storefront/style.css"); /* on importe le CSS du parent */
